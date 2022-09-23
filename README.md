@@ -1,8 +1,8 @@
 # ColdStorageEngine
 
   
-ARDUINO PROJECT
-  
+ <span style="font-size:larger;">ARDUINO PROJECT</span>
+   
 Simple project for turning ON and OFF a cold storage’s engine,
 which must mantain the storage’s temperature between 4°C and 8°C.  
 Everything is done using a sensor, Arduino and Firebase.  
